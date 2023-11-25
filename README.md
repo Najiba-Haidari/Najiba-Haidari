@@ -29,14 +29,14 @@ Hey there
 <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="600" height="300"/>
 </div>
 
---- 
+---
 
-### :woman_technologist: About Me :
+### About Me :
 
-
-
+:woman_technologist: I am highly motivated to enter coding world as Junior Full Stack Developer with a strong academic background in Finance and extensive experience in administartion roles. I am graduated from Full Stack Flex Coding Bootcamp of the University of Denver and am interested in variety of front-end and back-end technologies with a purpose to grow in this industry. With strong communication skills, attention to details and proactive problem soliving activities, I see myself as an ideal candidate to grow in the technology industry.
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div id="languages" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,6 +54,15 @@ Hey there
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Najiba-Haidari&theme=dark)](https://git.io/streak-stats);
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najiba-Haidari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Najiba-Haidari/Najiba-Haidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
