@@ -7,10 +7,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://github.com/Najiba-Haidari">
-<img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
 </a>
 <a href="mailto:nhaidari089@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-brown?logo=gmail&logoColor=white&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
 
