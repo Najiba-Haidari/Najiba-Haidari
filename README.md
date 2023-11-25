@@ -61,7 +61,7 @@ Hey there, I'm Najiba!
 
 ### My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najiba-Haidari&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najiba-Haidari&theme=transparent&show_icons=true)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Najiba-Haidari&theme=dark)](https://git.io/streak-stats); -->
 
