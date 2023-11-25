@@ -4,16 +4,13 @@
 
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/najiba-haidari-m/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://github.com/Najiba-Haidari">
-<img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge
-"/>
+<img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
 </a>
 <a href="mailto:nhaidari089@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-brown?logo=gmail&logoColor=white&style=for-the-badge
-"/>
+<img src="https://img.shields.io/badge/Gmail-brown?logo=gmail&logoColor=white&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
 
@@ -40,7 +37,7 @@ Hey there
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div id="languages">
+<div id="languages" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
