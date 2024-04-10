@@ -18,12 +18,12 @@
 <img src="https://komarev.com/ghpvc/?username=Najiba-Haidari&style=flat-square&color=blue" alt="my profile view"/>
 </div>
 
-<br/>
+<!-- <br/> -->
 <h1 id="hey" align="center">
 Hey there, I'm Najiba!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-<br/>
+<!-- <br/> -->
 
 <!-- <div id="about-me" align="center">
 <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="600" height="300"/>
