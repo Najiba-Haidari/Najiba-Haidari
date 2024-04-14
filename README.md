@@ -1,8 +1,3 @@
-<style>
-  body {
-    background-color: #262624; /* Replace with your preferred color code */
-  }
-</style>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="150" alt="Coding Girl">
